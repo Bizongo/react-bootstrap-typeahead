@@ -112,6 +112,7 @@ class Typeahead extends React.Component {
           role="status">
           {getAccessibilityStatus(this.props)}
         </div>
+           <div class = "buyer-company"></div>
       </div>
     );
   }
